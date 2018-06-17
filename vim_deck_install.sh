@@ -52,4 +52,4 @@ if ! command -v bundle &> /dev/null; then
 fi
 
 brew bundle
-PKG_CONFIG_PATH=/usr/local/opt/imagemagick@6/lib/pkgconfig bundle install
+PKG_CONFIG_PATH=/usr/local/opt/imagemagick@6/lib/pkgconfig BUNDLE_GEMFILE=VimdeckGemfile bundle install
