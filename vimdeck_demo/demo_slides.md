@@ -5,7 +5,13 @@
 
 # VIM ROCKS!
 
-![vim](vim.png)
+![vim](./vim.png)
+
+
+## Complex Image
+
+![Complex](./fig10.gif)
+Looks like gibberish in vimdeck.
 
 
 ## PARAGRAPHS
